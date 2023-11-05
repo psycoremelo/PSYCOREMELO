@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan Raju</h1>
-<h3 align="center">A passionate developer from India,kerala</h3>
+<h3 align="center">A passionate developer from kerala,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psycoremelo&label=Profile%20views&color=0e75b6&style=flat" alt="psycoremelo" /> </p>
 
