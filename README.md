@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **mern stack**
 
-- 💬 Ask me about **any think if i know i replay**
+- 💬 Ask me about **any think i will share my thoughts**
 
 - 📫 How to reach me **adiythyanraju60922@gmail.com**
 
