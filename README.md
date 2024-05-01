@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **any think i will share my thoughts**
 
-- 📫 How to reach me **adiythyanraju60922@gmail.com**
+- 📫 How to reach me **psycoremelo@gmail.com**
 
 - ⚡ Fun fact **i think i am good at takling to people**
 
