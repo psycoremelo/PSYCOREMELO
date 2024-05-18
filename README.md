@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psycoremelo" alt="psycoremelo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adithyan-_-raju" target="blank"><img src="https://img.shields.io/twitter/follow/adithyan-_-raju?logo=twitter&style=for-the-badge" alt="adithyan-_-raju" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@adithyan__raju" target="blank"><img src="https://img.shields.io/twitter/follow/@adithyan__raju?logo=twitter&style=for-the-badge" alt="@adithyan__raju" /></a> </p>
 
 - 🌱 I’m currently learning **mern stack**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@adithyan__raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithyan__raju" height="30" width="40" /></a>
-<a href="https://instagram.com/adithyan-_-raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithyan-_-raju" height="30" width="40" /></a>
+<a href="https://twitter.com/@adithyan__raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adithyan__raju" height="30" width="40" /></a>
+<a href="https://instagram.com/adithyan._.raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithyan-_-raju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
